@@ -1,2 +1,1 @@
-# ProgrammingBasicSeptember-SoftUni
-Softuni Source Exam
+# SoftUniPractice

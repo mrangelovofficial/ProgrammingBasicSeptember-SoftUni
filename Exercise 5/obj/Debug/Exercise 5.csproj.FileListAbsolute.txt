@@ -1,0 +1,7 @@
+C:\Users\georg\source\repos\Programming Basic 2017 Exam\Exercise 5\bin\Debug\Exercise 5.exe.config
+C:\Users\georg\source\repos\Programming Basic 2017 Exam\Exercise 5\bin\Debug\Exercise 5.exe
+C:\Users\georg\source\repos\Programming Basic 2017 Exam\Exercise 5\bin\Debug\Exercise 5.pdb
+C:\Users\georg\source\repos\Programming Basic 2017 Exam\Exercise 5\obj\Debug\Exercise 5.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Programming Basic 2017 Exam\Exercise 5\obj\Debug\Exercise 5.exe
+C:\Users\georg\source\repos\Programming Basic 2017 Exam\Exercise 5\obj\Debug\Exercise 5.pdb
+C:\Users\georg\source\repos\Programming Basic 2017 Exam\Exercise 5\obj\Debug\Exercise 5.csprojResolveAssemblyReference.cache

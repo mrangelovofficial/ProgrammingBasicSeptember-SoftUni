@@ -1,0 +1,6 @@
+C:\Users\georg\source\repos\Programming Basic 2017 Exam\Еxercise 4\bin\Debug\Еxercise 4.exe.config
+C:\Users\georg\source\repos\Programming Basic 2017 Exam\Еxercise 4\bin\Debug\Еxercise 4.exe
+C:\Users\georg\source\repos\Programming Basic 2017 Exam\Еxercise 4\bin\Debug\Еxercise 4.pdb
+C:\Users\georg\source\repos\Programming Basic 2017 Exam\Еxercise 4\obj\Debug\Еxercise 4.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Programming Basic 2017 Exam\Еxercise 4\obj\Debug\Еxercise 4.exe
+C:\Users\georg\source\repos\Programming Basic 2017 Exam\Еxercise 4\obj\Debug\Еxercise 4.pdb
